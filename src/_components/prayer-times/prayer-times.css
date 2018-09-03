@@ -46,3 +46,8 @@
 .PrayerTimes td:last-child.normal-text {
   font-weight: normal;
 }
+
+.PrayerTimes .nextJamahHighlight {
+  font-weight: bolder;
+  color: #e74c3c;
+}
