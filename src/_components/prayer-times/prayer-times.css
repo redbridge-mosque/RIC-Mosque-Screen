@@ -3,21 +3,18 @@
 }
 
 .PrayerTimes {
-  font-size: 3.5em;
+  font-size: 3em;
   text-align: right;
   color: white;
-  margin-left: 60px;
-  padding-top: 75px;
-  width: 850px;
+  margin-top: 75px;
+  float: right;
+  padding-right: 50px;
 }
 
 .PrayerTimes th {
   font-weight: bolder;
   font-size: 1em;
   text-align: right;
-}
-
-.PrayerTimes th:last-child {
   padding-left: 50px;
 }
 
